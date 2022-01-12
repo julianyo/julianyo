@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Julián Ruiz Rodríguez** based in Puerto Rico 🇵🇷
+- 👋 Hi, I’m **Julián Ruiz Rodríguez** , currently based in Puerto Rico 🇵🇷
 - 👀 I’m interested in Web development technologies and design
 - 🌱 I’m currently learning the MERN stack & Cloud development on Udemy & Coursera. 
 - 🤳🏼 I'm also working with @[SpotlightStudio](https://www.spotlightstudiopr.com/) as their freelance Web designer/developer!
