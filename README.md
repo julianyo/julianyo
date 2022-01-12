@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @julianyo
-- 👀 I’m interested in Web development and technology
-- 🌱 I’m currently learning the MERN stack & Cloud development
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: By email or [My website](https://www.julianrr.com)
+- 👋 Hi, I’m **Julián Ruiz Rodríguez** based in Puerto Rico 🇵🇷
+- 👀 I’m interested in Web development technologies and design
+- 🌱 I’m currently learning the MERN stack & Cloud development on Udemy & Coursera. 
+- 🤳🏼 I'm also working with @[SpotlightStudio](https://www.spotlightstudiopr.com/) as their freelance Web designer/developer!
+- 📫 How to reach me: You can reach me on [My website](https://www.julianrr.com) or @[SpotlightStudio](https://www.spotlightstudiopr.com/)
 
 <!---
 julianyo/julianyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
