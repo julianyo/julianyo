@@ -1,4 +1,4 @@
-👋 Hi, I’m **Julián Ruiz Rodríguez** and I'm currently based in Puerto Rico 🇵🇷
+👋🏻 Hi, I’m **Julián Ruiz Rodríguez** and I'm currently based in Puerto Rico 🇵🇷
 
 👀 I’m interested in Web development technologies and design.
 
