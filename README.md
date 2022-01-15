@@ -8,6 +8,8 @@
 
 📫 You can reach me on [My website](https://www.julianrr.com) or [SpotlightStudio](https://www.spotlightstudiopr.com/).
 
+✌🏻 You can also learn more about me by visiting my [Linktree](https://linktr.ee/Julianrr)!
+
 <!---
 julianyo/julianyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
