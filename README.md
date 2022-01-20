@@ -2,7 +2,7 @@
 
 👀 I’m interested in Web development technologies and design.
 
-🌱 I’m currently learning **React** as well as **the MERN stack** & **Cloud development** on Udemy & Coursera.
+🌱 I’m currently learning **React** as well as **the MERN stack** & **Cloud development**.
 
 🤳🏼 I'm also working with [SpotlightStudio](https://www.spotlightstudiopr.com/) as their freelance Web designer/developer!
 
