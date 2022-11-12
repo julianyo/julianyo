@@ -2,7 +2,7 @@
 
 👀 I’m interested in Information Technology, Web development and Programming.
 
-🌱 I’m currently learning the **the MERN stack** as well Angular and Ionic mobile development while being a student working on my Bachellor in IT, majoring in Software development.
+🌱 I’m currently studying the **the MERN stack**, as well as **Angular w/ Ionic mobile development**. All this while studying for my **bachelors degree in IT, majoring in Software development!**
 
 📫 You can reach me on [My website](https://www.julianrr.com).
 
