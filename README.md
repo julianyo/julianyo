@@ -1,12 +1,10 @@
 👋🏻 Hi, I’m **Julián Ruiz Rodríguez** and I'm currently based in Puerto Rico 🇵🇷
 
-👀 I’m interested in Web development technologies and Software programming.
+👀 I’m interested in Information Technology, Web development and Programming.
 
-🌱 I’m currently learning the **the MERN stack** as well as studying a Bachellor in IT, majoring in Software development.
+🌱 I’m currently learning the **the MERN stack** as well Angular and Ionic mobile development while being a student working on my Bachellor in IT, majoring in Software development.
 
-🤳🏼 I'm also working with [SpotlightStudio](https://www.spotlightstudiopr.com/) as their freelance Web designer/developer!
-
-📫 You can reach me on [My website](https://www.julianrr.com) or [SpotlightStudio](https://www.spotlightstudiopr.com/).
+📫 You can reach me on [My website](https://www.julianrr.com).
 
 ✌🏻 You can also learn more about me by visiting my [Linktree](https://linktr.ee/Julianrr)!
 
